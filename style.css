@@ -1,0 +1,38 @@
+body{
+    background-color: #f9f9f9;
+}
+
+.class1{
+    background-color: #364fdd;
+    color: white;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: #364fdd;
+}
+
+img{
+    margin: 20px;
+    border-radius: 15px;
+}
+
+#info{
+    margin-bottom: 400px;
+}
+
+input{
+    padding: 5px;
+}
+
+
+.button{
+    background-color: #364fdd;
+    color: white;
+}
+
